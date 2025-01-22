@@ -1,0 +1,7 @@
+USER_NAME = "Eloi Buil Cuadrat"
+USER_GENDER = "masc"
+
+ASSISTANT_NAME = "ChatGPT"
+ASSISTANT_VOICE = "nova"
+
+IMPORTANT_WORDS = []
